@@ -24,6 +24,7 @@ With this series of **<span style="color:red">Seaborn notebooks</span>**, aspira
 - Linearly spread Data Plots
 - Categorical Data Plots
 - Visualization on Grids
+
 *Please note that the content of each Curriculum topic might get segregated into multiple videos on YouTube OR multiple articles on [Medium Publication](https://medium.com/@neuralnets) so I would recommend opening it up as a playlist for better experience.*
 
 ## Note:
