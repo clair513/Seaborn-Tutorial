@@ -17,7 +17,7 @@ With this series of **<span style="color:red">Seaborn notebooks</span>**, aspira
 
 ## Series Curriculum:
 - Introduction to *Data Visualization* Fundamentals
-- [Setting up Tools & Resources (Jupyter Notebook](https://medium.com/@neuralnets/beginners-quick-guide-for-handling-issues-launching-jupyter-notebook-for-python-using-anaconda-8be3d57a209b)
+- [Setting up Tools & Resources (Jupyter Notebook](https://medium.com/@neuralnets/beginners-quick-guide-for-handling-issues-launching-jupyter-notebook-for-python-using-anaconda-8be3d57a209b))
 - Overview of **NumPy** and **Pandas**
 - Elementary Statistical Terms : [Part-1](https://medium.com/@neuralnets/probability-distribution-statistics-for-deep-learning-73a567e65dfa), [Part-2](https://medium.com/@neuralnets/elementary-statistical-terms-for-data-science-interviews-212d931ca57d) and [Part-3](https://medium.com/@neuralnets/linear-algebra-for-data-science-revisiting-high-school-9a6bbeba19c6).
 - Plot styling with Seaborn (With **Tableau** flavour)
