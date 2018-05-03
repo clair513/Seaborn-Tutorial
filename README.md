@@ -1,6 +1,6 @@
 # Seaborn-Tutorial:
 
-Dat Visualization is a critical though undermined skill required in pursuit of a Data Science career. This repository is an attempt to help *Data Science* aspirants gain necessary **<span style="color:red">Data Visualization</span>** skills required to progress in their career. It includes all the types of plot offered by Seaborn, applied on random or fabricated datasets. The knowledge gained for inference shall in no way be limited to Seaborn. 
+**Data Visualization** is a critical though undermined skill required in pursuit of a **Data Science** career. This repository is an attempt to help *Data Science* aspirants gain necessary **<span style="color:red">Data Visualization</span>** skills required to progress in their career. It includes all the types of plot offered by Seaborn, applied on random or fabricated datasets. The knowledge gained for inference shall in no way be limited to Seaborn. 
 
 For learners who feel at ease when steps are visually explained, you may check my [YouTube channel](https://www.youtube.com/channel/UCwvHagkArilKs7QT4vqFXqQ). You may opt reading for a *written/article* mode preview on my [Medium publication](https://medium.com/@neuralnets). My algorithms shall try to ensure that these notebooks are well synchronized with video streaming but do not guarantee perfect *Speech to Text*.
 
