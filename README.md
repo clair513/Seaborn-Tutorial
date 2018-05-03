@@ -29,4 +29,4 @@ With this series of **<span style="color:red">Seaborn notebooks</span>**, aspira
 
 ## Note:
 If there is any issue with the code or explanation that you would like me to look into or *advice/suggest/recommend*, please feel free to reach out. If the content is useful and you would like to copy it completely or partially, feel free to do it but kindly accredit source while doing so. - [Alok Kumar](https://www.linkedin.com/in/alok-kumar-85455b117/). 
-If the content on publication seems well explained, I would really be glad to get notified about your claps on the story.
+If the content on publication seems well explained, I would really be glad to get notified about [your applause on the story](https://help.medium.com/hc/en-us/articles/115011350967-Claps).
